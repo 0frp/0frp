@@ -28,7 +28,7 @@
 
 ---
 
-## 🟣 Discord Rich Status (Live)
+## 🟣 Discord Status 
 
 <p align="center">
   <a href="https://discord.com/users/1411411326344892476">
@@ -92,7 +92,7 @@
 
 ---
 
-## 🏆 Trophies (Optional Flair)
+## 🏆 Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

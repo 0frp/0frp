@@ -113,24 +113,12 @@
 ----
 
 
+
+
 ----
+---
+
 <p align="center">
   © 2026 0frp • Licensed under the <a href="./LICENSE.md">MIT License</a>
 </p>
-
-
-----
-## 🧪 Terminal Snapshot
-
-```txt
-0frp@dev:~$ whoami
-full-stack developer
-
-0frp@dev:~$ focus --today
-- ship features
-- harden infra
-- automate deployments
-- build without builders
-
-
 

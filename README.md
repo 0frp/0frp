@@ -111,7 +111,12 @@
 </p>
 
 ----
-@2026 0frp. All rights reserved.
+---
+
+<p align="center">
+  © 2026 0frp
+</p>
+
 ----
 ## 🧪 Terminal Snapshot
 
@@ -127,4 +132,3 @@ full-stack developer
 
 
 
-@2026 0frp. All rights reserved.

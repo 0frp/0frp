@@ -81,7 +81,7 @@
 
 ## 📫 Contact
 
-- Discord: https://discord.com/users/YOUR_DISCORD_ID  
+- Discord: https://discord.com/users/1411411326344892476
 
 ---
 

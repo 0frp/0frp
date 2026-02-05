@@ -113,9 +113,8 @@
 ----
 ---
 
-<p align="center">
-  © 2026 0frp
-</p>
+## 📄 License
+© 2026 0frp — Released under the MIT License.
 
 ----
 ## 🧪 Terminal Snapshot

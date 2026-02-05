@@ -105,6 +105,13 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0frp/0frp/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+----
+
 ## 🧪 Terminal Snapshot
 
 ```txt

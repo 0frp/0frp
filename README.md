@@ -111,7 +111,8 @@
 </p>
 
 ----
-
+@2026 0frp. All rights reserved.
+----
 ## 🧪 Terminal Snapshot
 
 ```txt
@@ -126,5 +127,4 @@ full-stack developer
 
 
 
-----
 @2026 0frp. All rights reserved.

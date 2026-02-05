@@ -90,33 +90,9 @@
   />
 </p>
 
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=0frp&theme=onedark&no-frame=true&no-bg=true&row=1&column=7"
-      alt="trophies"
-    />
-  </a>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0frp/0frp/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-----
-
-
 
 
 ----
----
 
 <p align="center">
   © 2026 0frp • Licensed under the <a href="./LICENSE.md">MIT License</a>

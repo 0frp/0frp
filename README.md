@@ -1,87 +1,84 @@
+<!-- 0frp Profile README -->
 
 <h1 align="center">0frp</h1>
 
 <p align="center">
   <a href="https://discord.com/users/1411411326344892476">Discord</a> •
-
+  <a href="https://github.com/0frp">GitHub</a> •
+  <a href="https://github.com/0frp/netmass">netmass</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=520&lines=Full-stack+Developer+%7C+Infrastructure+%26+Linux;5%2B+years+full-stack;6%2B+years+website+research+%26+development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=720&lines=Full-stack+Developer+%7C+Infrastructure+%26+Linux;5%2B+years+full-stack;6%2B+years+website+research+%26+development;VPS+%E2%86%92+Linux+%E2%86%92+Nginx+%E2%86%92+Deploy+%E2%86%92+Scale" />
 </p>
 
 <p align="center">
   <a href="https://github.com/0frp">
     <img src="https://img.shields.io/badge/GitHub-0frp-181717?logo=github&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/1411411326344892476">
     <img src="https://img.shields.io/badge/Discord-0frp-5865F2?logo=discord&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/github/followers/0frp?label=Followers&style=flat&logo=github" />
+  <img src="https://img.shields.io/github/stars/0frp?label=Stars&style=flat&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=0frp&label=Profile%20Views&color=0d1117&style=flat" />
 </p>
 
 ---
 
-## Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/1411411326344892476?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Probably%20building%20something...)](https://discord.com/users/1411411326344892476)
+## 🟣 Discord Status (Live)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1411411326344892476?theme=dark&bg=0d1117&borderRadius=14px&idleMessage=Probably%20building%20something...)](https://discord.com/users/1411411326344892476)
 
-
----
-
-## 👋 About Me
-
-- 🧑‍💻 Full-stack developer (**5+ years**)  
-- 🔬 Website research + coding/development (**6+ years**)  
-- 🖥️ Comfortable building sites *without website builders* (custom stacks)
-- 🌍 VPS + Linux server setup (deployments, hardening, automation)
+> GitHub READMEs can’t run scripts — live status is shown via a dynamic SVG card.
 
 ---
 
-## 🧰 Tech Stack
-
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-
-### DevOps / Infra
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-### Databases 
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+## 👋 About
+- 🧑‍💻 Full-stack developer (**5+ years**)
+- 🔬 Website research + coding/development (**6+ years**)
+- 🖥️ Custom stacks (no site builders)
+- 🌍 VPS + Linux: deployments, hardening, automation, reverse proxies
 
 ---
 
-## ⭐ Featured Projects
+## 🧠 Skills (Quick View)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,dotnet,linux,docker,nginx,postgres,mongodb,redis,git)](https://skillicons.dev)
 
-- **netmass** — .NET mass installer (stable channels + runtimes)  
+---
+
+## 🧩 Featured
+- **netmass** — installs stable .NET channels + runtimes
   → https://github.com/0frp/netmass
 
-
-
 ---
 
-## 📈 GitHub Stats
-
+## 📊 Metrics (Generated inside this repo)
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0frp&show_icons=true&hide_title=true&rank_icon=github" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=0frp" />
+  <img src="./github-metrics.svg" alt="github metrics" />
 </p>
 
 ---
 
-## 📫 Contact
-
-- Discord: https://discord.com/users/1411411326344892476
+## 🧊 3D Contributions (Generated inside this repo)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" />
+</p>
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0frp/0frp/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🛰️ Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+## 🛡️ Reliability Note
+Some cards are third-party SVG endpoints (e.g., Discord presence).  
+All GitHub stats visuals here are generated by GitHub Actions and committed to the repo for stability.

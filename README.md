@@ -1,6 +1,9 @@
-<!-- 0frp Profile README -->
-
-<h1 align="center">0frp</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5865F2&height=190&section=header&text=0frp&fontSize=64&fontColor=ffffff&animation=twinkling&desc=Full-stack%20Developer%20%E2%80%A2%20VPS%20%2B%20Linux%20%E2%80%A2%20Custom%20Stacks&descSize=18&descAlignY=68"
+    alt="header"
+  />
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/1411411326344892476">Discord</a> •
@@ -9,76 +12,108 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=720&lines=Full-stack+Developer+%7C+Infrastructure+%26+Linux;5%2B+years+full-stack;6%2B+years+website+research+%26+development;VPS+%E2%86%92+Linux+%E2%86%92+Nginx+%E2%86%92+Deploy+%E2%86%92+Scale" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=760&lines=0frp+%E2%80%94+Full-stack+Developer;5%2B+years+full-stack+experience;6%2B+years+website+research+%26+development;VPS+%E2%86%92+Linux+%E2%86%92+Nginx+%E2%86%92+Deploy+%E2%86%92+Scale"
+    alt="typing"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/0frp">
-    <img src="https://img.shields.io/badge/GitHub-0frp-181717?logo=github&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/1411411326344892476">
-    <img src="https://img.shields.io/badge/Discord-0frp-5865F2?logo=discord&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/github/followers/0frp?label=Followers&style=flat&logo=github" />
-  <img src="https://img.shields.io/github/stars/0frp?label=Stars&style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-0d1117?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-Full--Stack-0d1117?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/0frp?label=Followers&style=flat&color=0d1117" />
+  <img src="https://img.shields.io/github/stars/0frp?label=Stars&style=flat&color=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=0frp&label=Profile%20Views&color=0d1117&style=flat" />
 </p>
 
 ---
 
-## 🟣 Discord Status (Live)
-[![Discord Presence](https://lanyard.cnrad.dev/api/1411411326344892476?theme=dark&bg=0d1117&borderRadius=14px&idleMessage=Probably%20building%20something...)](https://discord.com/users/1411411326344892476)
+## 🟣 Discord Rich Status (Live)
 
-> GitHub READMEs can’t run scripts — live status is shown via a dynamic SVG card.
-
----
-
-## 👋 About
-- 🧑‍💻 Full-stack developer (**5+ years**)
-- 🔬 Website research + coding/development (**6+ years**)
-- 🖥️ Custom stacks (no site builders)
-- 🌍 VPS + Linux: deployments, hardening, automation, reverse proxies
-
----
-
-## 🧠 Skills (Quick View)
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,dotnet,linux,docker,nginx,postgres,mongodb,redis,git)](https://skillicons.dev)
-
----
-
-## 🧩 Featured
-- **netmass** — installs stable .NET channels + runtimes
-  → https://github.com/0frp/netmass
-
----
-
-## 📊 Metrics (Generated inside this repo)
 <p align="center">
-  <img src="./github-metrics.svg" alt="github metrics" />
+  <a href="https://discord.com/users/1411411326344892476">
+    <img
+      src="https://lanyard.cnrad.dev/api/1411411326344892476?theme=dark&bg=0d1117&borderRadius=16px&animated=true&animatedDecoration=true&showDisplayName=true&hideDiscrim=true&hideTimestamp=true&hideBadges=false&hideProfile=false&hideActivity=whenNotUsed&idleMessage=Probably%20building%20something..."
+      alt="Discord Presence"
+    />
+  </a>
 </p>
 
 ---
 
-## 🧊 3D Contributions (Generated inside this repo)
+## ⚡ About
+
+- 🧑‍💻 **Full-stack developer (5+ years)**
+- 🔬 **Website research + coding/development (6+ years)**
+- 🧱 Builds sites **without builders** (custom stacks)
+- 🌍 VPS + Linux: deployments, reverse proxy, TLS, hardening, automation
+
+---
+
+## 🧰 Tech Stack
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" />
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,dotnet,linux,docker,nginx,postgres,mongodb,redis,git&theme=dark"
+      alt="skills"
+    />
+  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Featured Project
+
+- **netmass** — installs stable .NET channels + runtimes  
+  https://github.com/0frp/netmass
+
+---
+
+## 📈 Live Activity Graph (Last 31 Days)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0frp/0frp/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0frp&theme=github-dark&hide_border=true"
+    alt="activity graph"
+  />
 </p>
 
 ---
 
-## 🛰️ Recent Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+## 🔥 Streak + Contribution Snapshot
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=0frp&theme=github-dark&hide_border=true"
+    alt="streak stats"
+  />
+</p>
 
 ---
 
-## 🛡️ Reliability Note
-Some cards are third-party SVG endpoints (e.g., Discord presence).  
-All GitHub stats visuals here are generated by GitHub Actions and committed to the repo for stability.
+## 🏆 Trophies (Optional Flair)
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=0frp&theme=onedark&no-frame=true&no-bg=true&row=1&column=7"
+      alt="trophies"
+    />
+  </a>
+</p>
+
+---
+
+## 🧪 Terminal Snapshot
+
+```txt
+0frp@dev:~$ whoami
+full-stack developer
+
+0frp@dev:~$ focus --today
+- ship features
+- harden infra
+- automate deployments
+- build without builders
+

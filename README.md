@@ -5,11 +5,7 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/1411411326344892476">Discord</a> •
-  <a href="https://github.com/0frp">GitHub</a> •
-  <a href="https://github.com/0frp/netmass">netmass</a>
-</p>
+
 
 <p align="center">
   <img

@@ -4,9 +4,6 @@
     alt="header"
   />
 </p>
-
-
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=760&lines=0frp+%E2%80%94+Full-stack+Developer;5%2B+years+full-stack+experience;6%2B+years+website+research+%26+development;VPS+%E2%86%92+Linux+%E2%86%92+Nginx+%E2%86%92+Deploy+%E2%86%92+Scale"

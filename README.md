@@ -8,3 +8,4 @@
 ## Projects
 - **netmass** — installs stable .NET channels automatically
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1411411326344892476)](https://discord.com/users/1411411326344892476)

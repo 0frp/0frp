@@ -21,8 +21,7 @@
 
 ---
 
-## 🎮 Live Discord Status (Rich Presence)
-
+## Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/1411411326344892476?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Probably%20building%20something...)](https://discord.com/users/YOUR_DISCORD_ID)
 
 

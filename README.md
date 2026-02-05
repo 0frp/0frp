@@ -124,3 +124,7 @@ full-stack developer
 - automate deployments
 - build without builders
 
+
+
+----
+@2026 0frp. All rights reserved.

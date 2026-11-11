@@ -4,8 +4,7 @@
 
 hey, i'm **0frp**. i build websites and the servers they run on.
 
-been writing code for about six years, full-stack for five. i don't use site builders, everything is hand-rolled and self-hosted on my own linux boxes. nginx in front, tls everywhere, locked down, automated where it makes sense.
-
+been writing code for about six years, full-stack for five. i don't use site builders, everything is hand-made and self-hosted on my own linux virtual private servers, and i'm in love with anything to do with smart home tech, especially their automations it comes with.
 <br />
 
 **what i use**
@@ -29,5 +28,3 @@ been writing code for about six years, full-stack for five. i don't use site bui
 <br />
 
 <sub>mit licensed · <a href="./LICENSE.md">license</a></sub>
-
-[03:53, 11/11/2026] My ai: 

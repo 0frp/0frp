@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" alt="0frp" width="100%" />
+ <img src="https://170-101-112-222.sslip.io/0frp/banner.svg" alt="0frp" width="100%" />
 
 <br />
 
@@ -10,7 +10,7 @@ been writing code for about six years, full-stack for five. i don't use site bui
 
 **what i use**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,dotnet,linux,docker,nginx,postgres,mongodb,redis,git&theme=dark&perline=13" alt="ts, js, react, next, node, .net, linux, docker, nginx, postgres, mongo, redis, git" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,dotnet,linux,docker,nginx,postgres,mongodb,redis,git&theme=dark&perline=13" alt="tech stack" />
 
 <br />
 
@@ -29,3 +29,5 @@ been writing code for about six years, full-stack for five. i don't use site bui
 <br />
 
 <sub>mit licensed · <a href="./LICENSE.md">license</a></sub>
+
+[03:53, 11/11/2026] My ai: 
